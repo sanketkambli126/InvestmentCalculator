@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Investment Calculator</string>
+    <string name="premium_paid_label">Premium Paid</string>
+    <string name="premium_amount_label">Amount</string>
+    <string name="premium_no_of_year_label">Number of Years (To Hold)</string>
+    <string name="premium_no_of_year_pay_label">Number of Years (To Pay Premium)</string>
+    <string name="premium_paid_duration_monthly_label">Monthly</string>
+    <string name="premium_paid_duration_yearly_label">Yearly</string>
+    <string name="button_text_calculate">Calculate</string>
+</resources>
